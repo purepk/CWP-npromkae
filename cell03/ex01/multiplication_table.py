@@ -1,4 +1,4 @@
-def main() :
+def main():
     print("Enter a number")
     num = int(input())
     for i in range(10) :

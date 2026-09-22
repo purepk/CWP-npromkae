@@ -1,4 +1,4 @@
-def main() :
+def main():
     print("Enter the first number:")
     num1 = int(input())
     print("Enter the second number:")

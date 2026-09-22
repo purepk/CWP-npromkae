@@ -1,4 +1,4 @@
-def main() :
+def main():
     print("Enter a number less than 25")
     num = int(input())
     if num > 25 :

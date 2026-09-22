@@ -1,5 +1,5 @@
 import sys
-def main() :
+def main():
     if len(sys.argv) > 1 :
         print("none")
     else :
